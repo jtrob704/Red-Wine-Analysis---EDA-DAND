@@ -17,3 +17,5 @@ http://www.learnbymarketing.com/tutorials/linear-regression-in-r/
 https://courses.lumenlearning.com/microeconomics/chapter/reading-interpreting-slope/
 
 https://cran.r-project.org/web/packages/egg/vignettes/Ecosystem.html
+
+https://stackoverflow.com/questions/46864196/ggpairs-rotate-axis-label
